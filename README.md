@@ -10,8 +10,3 @@ Cookbooks
 ---------
 
 * php - https://github.com/opscode-cookbooks/php
-
-Attributes
-==========
-
-__None__
